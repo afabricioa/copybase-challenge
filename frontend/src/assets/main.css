@@ -1,0 +1,13 @@
+@import './base.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.metricas{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
